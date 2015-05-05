@@ -1,0 +1,12 @@
+#
+tmpfile.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
+
+# log/archive/access.log not currently ignored?
